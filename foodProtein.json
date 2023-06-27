@@ -1,0 +1,107 @@
+{
+  "eggs": {
+    "size": "One large egg",
+    "grams": 50,
+    "protein": 6.3
+  },
+  "almonds": {
+    "size": "One ounce",
+    "grams": 28.35,
+    "protein": 6
+  },
+  "chicken breast": {
+    "size": "One half of a chicken breast",
+    "grams": 86,
+    "protein": 26.7
+  },
+  "cottage cheese": {
+    "size": "One cup",
+    "grams": 226,
+    "protein": 28
+  },
+  "greek yogurt": {
+    "size": "One 7-ounce container",
+    "grams": 200,
+    "protein": 19.9
+  },
+  "milk": {
+    "size": "One cup",
+    "milliliters": 246,
+    "protein": 8.32
+  },
+  "lentils": {
+    "size": "100 g",
+    "grams": 100,
+    "protein": 9.02
+  },
+  "lean beef": {
+    "size": "A 3-ounce serving",
+    "grams": 85,
+    "protein": 24.6
+  },
+  "fish salmon": {
+    "size": "Half a salmon fillet",
+    "grams": 124,
+    "protein": 30.5
+  },
+  "fish cod": {
+    "size": "A cod fillet",
+    "grams": 180,
+    "protein": 41
+  },
+  "quinoa": {
+    "size": "One cup",
+    "grams": 185,
+    "protein": 8
+  },
+  "whey protein powders": {
+    "size": "One scoop",
+    "grams": 28.6,
+    "protein": 16.6
+  },
+  "pea protein powders": {
+    "size": "One scoop",
+    "grams": 20,
+    "protein": 15
+  },
+  "ezekiel bread": {
+    "size": "One slice",
+    "grams": 50,
+    "protein": 6
+  },
+  "pumpkin seeds": {
+    "size": "A 1/4 cup",
+    "grams": 29.5,
+    "protein": 8.8
+  },
+  "turkey breast": {
+    "size": "A 3-ounce serving",
+    "grams": 85,
+    "protein": 25.6
+  },
+  "clams": {
+    "size": "A 3-ounce serving",
+    "grams": 85,
+    "protein": 21.8
+  },
+  "shrimp": {
+    "size": "A 3-ounce serving",
+    "grams": 85,
+    "protein": 20.4
+  },
+  "peanuts": {
+    "size": "A 1-ounce serving",
+    "grams": 28.35,
+    "protein": 7.31
+  },
+  "peanut butter": {
+    "size": "A 2-tablespoon serving",
+    "grams": 32,
+    "protein": 7.2
+  },
+  "unknown": {
+    "size": "unknown",
+    "grams": 0,
+    "protein": 0
+  }
+}

@@ -5,11 +5,12 @@ const cors = require("cors");
 const PORT = 8000;
 
 app.use(cors());
+app.use(express.static("public"));
 
 let foodProtein;
 
 app.get("/", (request, response) => {
-  response.sendFile(__dirname + "/index.html");
+  response.sendFile(__dirname + "/public/index.html");
 });
 
 app.get("/api/", async (request, response) => {

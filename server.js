@@ -12,6 +12,19 @@ app.get("/", (request, response) => {
   response.sendFile(__dirname + "/index.html");
 });
 
+app.get("/api/", async (request, response) => {
+  try {
+    if (!foodProtein) {
+      const data = await fs.readFile("foodProtein.json", "utf8");
+      foodProtein = JSON.parse(data);
+    }
+    response.json(foodProtein);
+  } catch (error) {
+    console.error("error reading json file", error);
+    response.status(500).json({ error: "Internal Server Error" });
+  }
+});
+
 app.get("/api/:name", async (request, response) => {
   const protein = request.params.name.toLowerCase();
 

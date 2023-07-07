@@ -4,6 +4,53 @@
     "grams": 50,
     "protein": 6.3
   },
+
+  "sardines in tomato sauce*": {
+    "size": "1 can",
+    "grams": 87,
+    "protein": 24
+  },
+  "mackerel in tomato sauce*": {
+    "size": "1 can",
+    "grams": 93,
+    "protein": 24
+  },
+  "whole wheat bread*": {
+    "size": "2 slices",
+    "grams": 50,
+    "protein": 6
+  },
+  "white sliced bread*": {
+    "size": "2 slices",
+    "grams": 50,
+    "protein": 5
+  },
+  "cream custard filling panbread*": {
+    "size": "1 piece",
+    "grams": 95,
+    "protein": 7
+  },
+  "sweet potato cooked boiled without skin": {
+    "size": "1 cup",
+    "grams": 328,
+    "protein": 4.5
+  },
+  "white rice": {
+    "size": "1 cup",
+    "grams": 158,
+    "protein": 4.3
+  },
+  "rice noodles cooked": {
+    "size": "1 cup",
+    "grams": 176,
+    "protein": 1.6
+  },
+  "nissin chicken cup of noodles*": {
+    "size": "1 cup",
+    "grams": 71,
+    "protein": 7
+  },
+
   "almonds": {
     "size": "One ounce",
     "grams": 28.35,
